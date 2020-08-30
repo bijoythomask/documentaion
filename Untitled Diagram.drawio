@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-08-30T09:51:12.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="cpkzATGX7urOaJb3p9H1" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T09:52:36.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="cVBcHyzYZ3EqU6FLPjIp" version="13.6.5" type="github">
   <diagram id="TU-M1Av9xpNzfYH4rzJ3" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IK37PlNrV0NtEaVEGTwx-1" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="60" height="80" as="geometry" />
+          <mxGeometry x="320" y="62" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IK37PlNrV0NtEaVEGTwx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IK37PlNrV0NtEaVEGTwx-2" target="IK37PlNrV0NtEaVEGTwx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IK37PlNrV0NtEaVEGTwx-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="58.4" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
